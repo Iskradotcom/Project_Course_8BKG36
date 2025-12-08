@@ -20,3 +20,4 @@ Steps performed in R:
 - Calculating the log fold change / log2FC <br/>
 - Visualisation using different plots, those being the volcano, scatter and heatmap plots <br/>
 - Lastly, pathway analysis using kegg 
+
