@@ -21,3 +21,5 @@ Steps performed in R:
 - Visualisation using different plots, those being the volcano, scatter and heatmap plots <br/>
 - Lastly, pathway analysis using kegg 
 
+Explanation of graphs:
+
