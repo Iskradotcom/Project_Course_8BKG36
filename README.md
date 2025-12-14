@@ -21,5 +21,7 @@ Steps performed in R:
 - Visualisation using different plots, those being the volcano, scatter and heatmap plots <br/>
 - Lastly, pathway analysis using kegg 
 
-Explanation of graphs:
-
+Explanation of graphs:<br/>
+Graph 1 is a PCA plot and it shows the clear distance/difference between the sensitive and resistant groups, with PC1 (91.36%) being able to explain a high amount of variance in the data. <br/>
+Graph 2 is a volcano plot and this plot has thresholds in place for the data - a y-intercept for the -log10(adjusted p-values) and a threshold for the fold change that between -1 and +1. Furthermore, the plot shows the up and down-regulated significant genes and also genes that aren't signficant. The type of plot is useful to have as it helps with visualising very large datasets easily so they're easy to view and the data points take a certain shape that aids in interpretation.<br/>
+Graph 3a and 3b are heatmaps. Specifically, graph 3a is filtered by the top 20 lowest p-values and graph 3b by the top 20 genes with the highest FC values. From looking at the graphs, I could spot, for example, the gene CALB1 having one of the lowest p-values & also importantly have a high 
